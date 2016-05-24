@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
     /**
      * 将一条文本写入data文件
      *
-     * @param inputText
+     * @param inputText 输入的文本
      */
     private void save(String inputText) {
         FileOutputStream out;
